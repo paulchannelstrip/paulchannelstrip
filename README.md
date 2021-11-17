@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Paul!
+## Full-time audio editor, free-time audio hacker.
+
+### Find me here:
+[<img align="left" alt="tidal cycles forums" width="22px" src="https://club.tidalcycles.org/uploads/thirdsite/optimized/1X/be3d5f00576a1c7bca992828c6dcd8bb1e923430_2_32x32.png" /> TidalCycles Forums](https://club.tidalcycles.org/u/paulchannelstrip)
+
+[<img align="left" alt="twitch" width="22px" src="https://brand.twitch.tv/assets/images/black.png" /> Twitch](https://www.twitch.tv/paulchannelstrip)
+
+
 
 <!--
 **paulchannelstrip/paulchannelstrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
