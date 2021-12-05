@@ -6,6 +6,8 @@
 
 [<img align="left" alt="twitch" width="22px" src="https://brand.twitch.tv/assets/images/black.png" /> Twitch](https://www.twitch.tv/paulchannelstrip)
 
+or checkout [my website](https://channelst.rip)
+
 
 
 <!--
