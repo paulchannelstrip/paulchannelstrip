@@ -1,5 +1,5 @@
 # Hi, I'm Paul!
-## Full-time audio editor, free-time audio hacker.
+## I dig holes and make music :)
 
 ### Find me here:
 [<img align="left" alt="tidal cycles forums" width="22px" src="https://club.tidalcycles.org/uploads/thirdsite/optimized/1X/be3d5f00576a1c7bca992828c6dcd8bb1e923430_2_32x32.png" /> TidalCycles Forums](https://club.tidalcycles.org/u/paulchannelstrip)
